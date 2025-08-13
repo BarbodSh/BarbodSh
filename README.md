@@ -37,11 +37,11 @@ console.log(me);
 
 
 
-##📫 Contact Me
+## 📫 Contact Me
 
-📧 Email: barbodshirzadi13@gmail.com
+-📧 Email: barbodshirzadi13@gmail.com
 
-💼 LinkedIn: linkedin.com/**
+-💼 LinkedIn: linkedin.com/**
 
 
 
