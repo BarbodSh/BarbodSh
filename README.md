@@ -38,16 +38,8 @@ console.log(me);
 
 
 ## 📫 Contact Me
-<table>
-  <tr>
-    <td bgcolor="#1DA1F2" width="150" align="center">
-      <a href="https://twitter.com/yourusername" style="color:white; text-decoration:none;">Twitter</a>
-    </td>
-    <td bgcolor="#0e76a8" width="150" align="center">
-      <a href="https://linkedin.com/in/yourusername" style="color:white; text-decoration:none;">LinkedIn</a>
-    </td>
-  </tr>
-</table>
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)
 
 
 
