@@ -24,7 +24,7 @@ I love tackling challenging projects that help me grow and improve my skills ðŸš
 const me = {
   name: "Barbod",
   role: "Front-End Developer",
-  skills: ["Next.js", "React", "JavaScript", "CSS"],
+  skills: ["Next.js", "React", "JavaScript", "TypeScript"],
   loves: ["Clean Code", "UI/UX", "Learning New Tech"],
 };
 
