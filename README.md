@@ -33,15 +33,13 @@ console.log(me);
 
 ## 🚀 Featured Projects
 - [Learnly](https://github.com/BarbodSh)
-- 
 - [Dashboard-Logger](https://github.com/BarbodSh)
 
 
 
 ##📫 Contact Me
-📧 Email: barbodshirzadi13@gmail.com
-
-💼 LinkedIn: linkedin.com/**
+-📧 Email: barbodshirzadi13@gmail.com
+-💼 LinkedIn: linkedin.com/**
 
 
 
