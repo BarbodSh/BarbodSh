@@ -28,3 +28,21 @@ const me = {
 };
 
 console.log(me);
+
+
+
+## 🚀 Featured Projects
+- [Learnly](https://github.com/BarbodSh)
+- [Dashboard-Logger](https://github.com/BarbodSh)
+
+
+
+##📫 Contact Me
+📧 Email: barbodshirzadi13@gmail.com
+💼 LinkedIn: linkedin.com/**
+
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BarbodSh&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarbodSh&layout=compact)
+
