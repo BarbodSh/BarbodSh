@@ -1,7 +1,7 @@
 # Hi there 👋
-
 I'm a **Front-End Developer** passionate about building responsive, user-friendly interfaces using **Next.js** and **React**.  
 I love tackling challenging projects that help me grow and improve my skills 🚀.
+
 
 
 ## 🛠 Skills
@@ -15,6 +15,7 @@ I love tackling challenging projects that help me grow and improve my skills �
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
 
 
 ## 💻 About Me in Code
