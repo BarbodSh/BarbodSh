@@ -38,10 +38,8 @@ console.log(me);
 
 
 ## 📫 Contact Me
-
--📧 Email: barbodshirzadi13@gmail.com
-
--💼 LinkedIn: linkedin.com/**
+- 📧 Email: barbodshirzadi13@gmail.com
+- 💼 LinkedIn: linkedin.com/**
 
 
 
