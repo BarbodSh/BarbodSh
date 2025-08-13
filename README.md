@@ -38,8 +38,16 @@ console.log(me);
 
 
 ## 📫 Contact Me
-- 📧 Email: barbodshirzadi13@gmail.com
-- 💼 LinkedIn: linkedin.com/**
+<table>
+  <tr>
+    <td bgcolor="#1DA1F2" width="150" align="center">
+      <a href="https://twitter.com/yourusername" style="color:white; text-decoration:none;">Twitter</a>
+    </td>
+    <td bgcolor="#0e76a8" width="150" align="center">
+      <a href="https://linkedin.com/in/yourusername" style="color:white; text-decoration:none;">LinkedIn</a>
+    </td>
+  </tr>
+</table>
 
 
 
