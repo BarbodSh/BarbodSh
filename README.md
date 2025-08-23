@@ -24,7 +24,7 @@ const me = {
   name: "Barbod",
   role: "Front-End Developer",
   skills: ["Next.js", "React", "JavaScript", "TypeScript"],
-  loves: ["Clean Code", "UI/UX", "Learning New Tech"],
+  loves: ["Clean Code", "Performance Optimization", "Learning New Tech"],
 };
 
 console.log(me);
