@@ -45,6 +45,6 @@ console.log(me);
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BarbodSh&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarbodSh&layout=compact&title_color=ff0000&text_color=00ff00&bg_color=000000)
 
 
